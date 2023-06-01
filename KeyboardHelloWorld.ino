@@ -1,11 +1,7 @@
 /*********************************************************************************
- * KeyboardHelloWorld.ini
+ * KeyboardHelloWorld.ino
  * Written by Chris Taylor for SparkFun Electronics, 10/15/12
- * 
- * NOTE: This example will not work on a "normal" UNO. It requires that the 
- * arduino-keyboard firmware be installed on the ATMega8U2. Please see
- *   https://github.com/SFE-Chris/UNO-HIDKeyboard-Library
- *
+
  * Simple sketch to type "Hello World!" three times in three different ways
  *
  ********************************************************************************/
